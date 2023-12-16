@@ -1,2 +1,3 @@
-# labs-steamship
-Labs for working with Steamship AI agents and tools
+# Working with Steamship labs
+
+Labs for working with Steamship AI agents and tools.
